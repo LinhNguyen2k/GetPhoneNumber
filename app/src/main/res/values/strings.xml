@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DanhBa</string>
+    <string name="title">Danh bạ</string>
+    <string name="name_contact">Tên liên lạc</string>
+    <string name="phone_contact">Số điện thoại</string>
+    <string name="info_contact">Thông tin liên lạc</string>
+</resources>
